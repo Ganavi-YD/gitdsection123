@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 new line testing 
+=======
+new line 
+>>>>>>> 2564029 (Update p1.txt)
